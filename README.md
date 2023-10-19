@@ -11,7 +11,7 @@ header.header>div.header__container.container>a[href="#main-section"]>img[src=".
 ### ![form](https://github.com/borsoffei/lab-one/assets/30022383/846bb2d9-8dae-4bc1-9b4b-6a7f526bd37c)
 
 ```
-    form.footer__form>input[type="text" placeholder="Name"].footer__input-name+input[type="email" placeholder="Email"].footer__input-mail+input[type="number" placeholder="Budget"].footer__input-number+textarea[rows="3" maxlength="90" placeholder="Describe youre project..."].footer__textarea+button[type="submit"].footer__button{Send Message}
+    form.form>input[type="text" placeholder="Name"].form__input--name+input[type="email" placeholder="Email"].form__input--mail+input[type="number" placeholder="Budget"].form__input--number+textarea[rows="3" maxlength="90" placeholder="Describe youre project..."].form__textarea+button[type="submit"].form__button{Send Message}
 ```
 ### ![form](https://github.com/borsoffei/lab-one/assets/30022383/ca7bd146-b8dc-449c-aafd-f2726c12ca17)
 
